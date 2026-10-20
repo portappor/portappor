@@ -1,15 +1,43 @@
 <div align="center">
 
-  # ⚡ Hi, I'm Mhmmd.Dear
-  ### **Software Engineering & Database Architecture Enthusiast**
+  <!-- Header Banner / Title -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Mhmmd.Dear;Web+Dev+%26+Database+Architect;Building+Scalable+Systems" alt="Typing SVG" />
 
-  php
-  $developer = [
-      'name'       => 'Mhmmd.Dear',
-      'role'       => 'Web Developer & Database Specialist',
-      'focus'      => ['System Architecture', 'Cloud Optimization', 'UI/UX Design'],
-      'status'     => 'Building scalable web applications'
-  ];
+  <p align="center">
+    <b>Passionate Software Engineer focusing on Databases, Cloud Infrastructure, and Modern Web Tech.</b>
+  </p>
+
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://instagram.com/mhmmd.dear"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://tiktok.com/@mhmmd.dear_"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  </p>
+
+</div>
+
+<br>
+
+---
+
+## ⚡ Quick Profile
+
+php
+<?php
+
+namespace Developer;
+
+class MhmmdDear 
+{
+    public function getProfile(): array 
+    {
+        return [
+            'focus'    => ['Web Applications', 'Database Systems (ERD)', 'Cloud Architecture'],
+            'stack'    => ['PHP Native / Laravel', 'Bootstrap / Tailwind', 'MySQL / Postgres'],
+            'motto'    => 'Debugging semicolon missing missing links, one line at a time.',
+            'seeking'  => 'Open-source collaborations & System Performance Optimization'
+        ];
+    }
+}
 
 
 ## 🌐 Socials:
