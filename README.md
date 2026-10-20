@@ -1,45 +1,15 @@
-<div align="center">
+# 💫 About Me: Mhmmd.Dear
+🔭 Saya sedang mengerjakan Aplikasi Web & Sistem Database<br>👯 Saya ingin berkolaborasi dalam Proyek Open Source & Pengembangan Software<br>🤝 Saya butuh bantuan untuk Arsitektur Cloud & Optimasi Performa Sistem<br>🌱 Saya sedang mempelajari PHP, Bootstrap & Desain Database (ERD)<br>💬 Tanya saya tentang Pengembangan Web, MySQL, & Sistem Informasi<br>⚡ Fakta unik: Bisa betah seharian ngoding cuma demi nyari titik koma `;` yang hilang!
 
-  <!-- Typing Animated Header -->
-  <a href="https://github.com/portappor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vcenter=true&width=500&height=50&lines=Hi+%F0%9F%90%8B%2C+I'm+Mhmmd.Dear;Software+Engineering+%26+Database;Building+Scalable+Web+Systems" alt="Typing SVG" />
-  </a>
 
-  <p align="center">
-    <b>Web Developer & Database Specialist passionate about Clean Code, System Architecture & Cloud Infrastructure.</b>
-  </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mhmmd.dear) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@mhmmd.dear_) 
 
-  <!-- Social Badges -->
-  <p align="center">
-    <a href="https://instagram.com/mhmmd.dear" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="https://tiktok.com/@mhmmd.dear_" target="_blank">
-      <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-    </a>
-  </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=flat-square&logo=affinity-designer&logoColor=white) ![Invision](https://img.shields.io/badge/invision-FF3366?style=flat-square&logo=invision&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat-square&logo=affinity-photo&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=flat-square&logo=Playstation&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=portappor&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=portappor&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=portappor&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-</div>
-
----
-
-## ⚡ Overview
-
-php
-<?php
-
-namespace Developer;
-
-class MhmmdDear 
-{
-    public function getProfile(): array 
-    {
-        return [
-            'role'      => 'Software Engineering & Database Architecture Enthusiast',
-            'focus'     => ['Web Applications', 'Database Systems (ERD)', 'Cloud Infrastructure'],
-            'stack'     => ['PHP (Native / Laravel)', 'Bootstrap / Tailwind', 'MySQL / Postgres'],
-            'motto'     => 'Debugging line by line until every semicolon ; is where it belongs.',
-            'status'    => 'Open for Open Source Collaborations & System Performance Optimization'
-        ];
-    }
-}
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
