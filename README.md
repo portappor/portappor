@@ -1,5 +1,15 @@
-# 💫 About Me: Mhmmd.Dear
-🔭 Saya sedang mengerjakan Aplikasi Web & Sistem Database<br>👯 Saya ingin berkolaborasi dalam Proyek Open Source & Pengembangan Software<br>🤝 Saya butuh bantuan untuk Arsitektur Cloud & Optimasi Performa Sistem<br>🌱 Saya sedang mempelajari PHP, Bootstrap & Desain Database (ERD)<br>💬 Tanya saya tentang Pengembangan Web, MySQL, & Sistem Informasi<br>⚡ Fakta unik: Bisa betah seharian ngoding cuma demi nyari titik koma `;` yang hilang!
+<div align="center">
+
+  # ⚡ Hi, I'm Mhmmd.Dear
+  ### **Software Engineering & Database Architecture Enthusiast**
+
+  php
+  $developer = [
+      'name'       => 'Mhmmd.Dear',
+      'role'       => 'Web Developer & Database Specialist',
+      'focus'      => ['System Architecture', 'Cloud Optimization', 'UI/UX Design'],
+      'status'     => 'Building scalable web applications'
+  ];
 
 
 ## 🌐 Socials:
